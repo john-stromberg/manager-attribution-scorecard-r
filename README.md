@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [quant-research-r/projects/manager-attribution-scorecard-r](https://github.com/john-stromberg/quant-research-r/tree/main/projects/manager-attribution-scorecard-r).
+> This repository is retained as a historical snapshot.
+
+---
+
 # manager-attribution-scorecard-r
 
 R project for manager performance attribution and scorecard generation with analytics, report, and tests.
